@@ -54,7 +54,7 @@ public class PlanRepositoryTest {
         });
     }
 
-    @Test
+//    @Test
     public void LocalDateTimeParsingTest() {
         String date = "2022-03-01T00:00";
         System.out.println("date: " + date);
